@@ -28,7 +28,7 @@ The resolver service is built from a Dockerfile located in the `resolver` direct
 
 ### Authoritative
 
-The authoritative service uses the `coredns/coredns` image from Docker Hub. It uses a configuration file located at `authoritative/Corefile` and a zone file located at `authoritative/zone/mich0w0h.house.db`.
+The authoritative service uses the `coredns/coredns` image from Docker Hub. It uses a configuration file located at `authoritative/Corefile` and a zone file located at `authoritative/zone/rubel.app.db`.
 
 ## Network
 
