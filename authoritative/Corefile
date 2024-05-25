@@ -1,4 +1,4 @@
-mich0w0h.house {
-    file /etc/coredns/zone/mich0w0h.house.db
+rubel.app.house {
+    file /etc/coredns/zone/rubel.app.db
     log
 }
