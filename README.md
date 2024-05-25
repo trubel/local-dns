@@ -1,6 +1,6 @@
 # Local DNS Server with Docker
 
-This repository contains the necessary configuration to set up a local DNS server using Docker which offers name resolution of a local-only-domain `mich0w0h.house`. The server is composed of two services: a resolver and an authoritative DNS server.
+This repository contains the necessary configuration to set up a local DNS server using Docker which offers name resolution of a local-only-domain `rubel.app`. The server is composed of two services: a resolver and an authoritative DNS server.
 
 For more detailed instructions on setup, please refer to this post: https://dev.to/mich0w0h/setting-up-a-local-dns-service-with-docker-on-ubuntu-2204-290i
 
