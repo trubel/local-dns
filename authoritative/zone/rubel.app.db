@@ -12,5 +12,5 @@ $ORIGIN rubel.app.
         IN     NS      ns1.rubel.app.
 
 ; Domain hosts includes NS records defined above
-ns1     IN     A       192.168.1.102
-www     IN     A       192.168.1.103
+ns1     IN     A       192.168.1.55
+www     IN     A       192.168.1.179
