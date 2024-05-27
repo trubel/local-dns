@@ -5,7 +5,7 @@ services:
       - "53:53/udp"
     networks:
       local-dns:
-        ipv4_address: 192.168.1.101
+        ipv4_address: 192.168.1.55
   authoritative:
     image: coredns/coredns
     volumes:
